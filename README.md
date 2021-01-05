@@ -11,6 +11,9 @@ My name is Kevin Espinal, I am a full stack software engineer with a passion for
      - TypeScript
      
      - Python
+     
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **espinalk212/espinalk212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
