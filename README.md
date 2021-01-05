@@ -4,13 +4,13 @@ My name is Kevin Espinal, I am a full stack software engineer with a passion for
 
 - 🔭 I’m currently working on ...
 
-     **[PlayersClub](https://playersclub.herokuapp.com/#/)**: a sports web app that uses SportRadar's API to fetch live sports scores
+     - **[PlayersClub](https://playersclub.herokuapp.com/#/)**: a sports web app that uses SportRadar's API to fetch live sports scores
 
 - 🌱 I’m currently learning ...
 
-     TypeScript
+     - TypeScript
      
-     Python
+     - Python
 <!--
 **espinalk212/espinalk212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
