@@ -19,7 +19,7 @@ My name is Kevin Espinal, I am a full stack software engineer with a passion for
 
 > 🏆 152 Contributions in the Year 2021
  > 
-> 📦 164.3 kB Used in Github's Storage 
+> 📦 164.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
