@@ -56,17 +56,16 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-final_eval_Albert_Kim    4 mins              █████████████████████████   100.0% 
-final_eval_Frankelin_Pich0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +86,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/espinalk212/espinalk212/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
 
 
